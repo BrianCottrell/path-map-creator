@@ -1,0 +1,23 @@
+/* Map creator for pathing application website */
+/* By Brian Cottrell		                   */
+/* 12-10-2014      		                       */
+
+/*Set the map image in the top left corner*/
+body{
+	background-color: #AAA;
+	margin: 0%;
+}
+.map-image{
+	width: 70%;
+	padding: 35% 0%;
+	/*To create a new challenge, add the new map image path here*/
+	background-image: url('usa50out.gif');
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-color: #DFD;
+}
+.point{
+	position: absolute;
+	padding: 0.4% 0.4%;
+	border-radius: 50%;
+}
