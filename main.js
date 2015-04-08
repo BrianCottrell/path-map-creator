@@ -6,7 +6,7 @@
 var x, y;					//X and Y coordinates of cursor
 var points = [];			//Stores click points
 var group = 0;				//Allows points to be grouped together
-var groups = 7;			//Total number of groups
+var groups = 48;			//Total number of groups
 var color = '0,255,255';	//Starting point color
 var mapImage = document.getElementsByClassName('map-image')[0];
 
