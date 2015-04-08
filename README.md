@@ -1,6 +1,6 @@
 #Pathfing Challenge Map Creator
 ###Introduction
-This applications is used to produce an array of clickable point for use in my Pathfining Challenge web application. The application displays a map specified in the code and the user selects point for generating a traveling salesman distance optimization problem.
+This applications is used to produce an array of clickable point for use in my Pathfining Challenge web application. The application displays a map specified in the code and the user selects point for generating a traveling salesman distance optimization problem. This application was built in one day.
 ###Use
 To create a new set of points:
 
